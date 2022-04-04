@@ -13,13 +13,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1zVxcBHFnb
 
 <!-- 🖥 Teams meeting URL: ❔ -->
 
-  - Student 1: ❔
+  - Student 1: Amine Boutaleb Houssaini Joutei
 
-  - Student 2: ❔
+  - Student 2: Walid Choukri
 
-  - Student 3: ❔
+  - Student 3: Soukaina Chakour
 
-  - Student 4: ❔
+  - Student 4: Nassim Chabchi
 
 ## Getting Started
 
